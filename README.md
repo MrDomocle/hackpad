@@ -8,11 +8,13 @@
 * 9x DSA caps
 # How to use
 Like old phone keyboards! Layout:
-| Col1 | Col2 | Col3 |
+
+|  |  |  |
 | --- | --- | --- |
-| [_] [.] [,] [?] ["] [:] [;] | [a] [b] [c] | [d] [e] [f] |
-| [g] [h] [i] | [j] [k] [l] | [m] [n] [o] |
-| [p] [q] [r] [s] | [t] [u] [v] | [w] [x] [y] [z] |
+| `[_]` `[.]` `[,]` `[?]` `["]` `[:]` `[;]` | `[a]` `[b]` `[c]` | `[d]` `[e]` `[f]` |
+| `[g]` `[h]` `[i]` | `[j]` `[k]` `[l]` | `[m]` `[n]` `[o]` |
+| `[p]` `[q]` `[r]` `[s]` | `[t]` `[u]` `[v]` | `[w]` `[x]` `[y]` `[z]` |
+
 Just keep pressing the same key until the letter you want appears
 There's no way to type numbers as of now, but I will try my best to implement a second layout once I get the thing shipped to me.
 The OLED is blank for now, but I want it to display the word you are typing in the future.
