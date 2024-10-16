@@ -1,4 +1,5 @@
 # Bill of Materials
+* 1x PCB
 * 1x Seeed Studio XIAO RP2040
 * 4x M3 16mm bolt (same as in orpheuspad)
 * 4x M3 bolt threaded heat insert (same as in orpheuspad)
