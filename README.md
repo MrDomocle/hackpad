@@ -4,7 +4,7 @@ https://hackpad.hackclub.com/ <- website is live! this is probably a better plac
 
 ## Overview
 This is a limited-time introductory YSWS (you ship, we ship) where *you* design your own macropad, and we'll ship it to you for free! This is something you definitely don't want to miss out, so make sure to join #hackpad in the slack!
-
+a
 
 ### You ship:
 - A PCB Design and schematic
